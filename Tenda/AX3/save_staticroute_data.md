@@ -10,7 +10,7 @@ In the latest version `V16.03.12.11` of the Tenda Router AX3, a vulnerability oc
 
 When handling requests from the `/goform/SetStaticRouteCfg` page, the construction of the parameter list can influence the `save_staticroute_data` function, causing input to be concatenated onto the stack by the `sscanf` function without any checks, leading to a stack overflow. 
 
-![image-20250203211326509](C:\Users\lenovo\Desktop\WP\iot\assets\image-20250203211326509.png)
+![image-20250203211326509](.\assets\image-20250203211326509.png)
 
 ![image-20250203211413402](C:\Users\lenovo\Desktop\WP\iot\assets\image-20250203211413402.png)
 

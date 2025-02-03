@@ -1,4 +1,4 @@
-# Stack Overflow Vulnerability in Tenda Router AX3 ([V16.03.12.11]([AX3 升级软件](https://www.tenda.com.cn/material/show/103476)))
+# Stack Overflow Vulnerability in Tenda Router AX3 ([V16.03.12.11]((https://www.tenda.com.cn/material/show/103476)))
 
 ## Overview
 

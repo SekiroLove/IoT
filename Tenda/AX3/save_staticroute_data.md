@@ -12,7 +12,7 @@ When handling requests from the `/goform/SetStaticRouteCfg` page, the constructi
 
 ![image-20250203211326509](./assets/image-20250203211326509.png)
 
-![image-20250203211413402](C:\Users\lenovo\Desktop\WP\iot\assets\image-20250203211413402.png)
+![image-20250203211413402](./assets/image-20250203211413402.png)
 
 With appropriate parameter construction, this can result in denial of service (DoS) and remote code execution (RCE).
 
@@ -37,10 +37,7 @@ print(res.text)
 
 
 
-![image-20250203214025940](C:\Users\lenovo\Desktop\WP\iot\assets\image-20250203214025940.png)
-
-
-
-![image-20250203232553401](C:\Users\lenovo\Desktop\WP\iot\assets\image-20250203232553401.png)![image-20250203232906046](C:\Users\lenovo\Desktop\WP\iot\assets\image-20250203232906046.png)
-
-![image-20250203232818981](C:\Users\lenovo\Desktop\WP\iot\assets\image-20250203232818981.png)
+![image-20250203214025940](./assets/image-20250203214025940.png)
+![image-20250203232553401](./assets/image-20250203232553401.png)
+![image-20250203232906046](./assets/image-20250203232906046.png)
+![image-20250203232818981](./assets/image-20250203232818981.png)
